@@ -1,3 +1,7 @@
+# Federated Learning & Security
+
+Research code for backdoor defense, Byzantine fault tolerance, and fragment-sharing edge learning.
+
 ## Projects
 
 <p id="fed-nad">
