@@ -1,0 +1,9 @@
+# Local design preview and handoff notes; publish README.md and assets/ only.
+preview/
+tools/
+使用说明.md
+__pycache__/
+*.log
+# Superseded local design assets; the final README uses assets/badges/.
+assets/cards/
+assets/icons/
